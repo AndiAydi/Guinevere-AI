@@ -1,2 +1,20 @@
-# Guinevere-AI
-An elegant AI assistant focused on intelligence, learning, and real-world problem solving. Built with modern web technologies.
+# 👑 Guinevere AI
+
+An elegant and intelligent AI assistant.
+
+## 🚀 Features
+- Smart conversation
+- Learning support
+- Coding assistance
+- Clean UI
+
+## 🧠 Vision
+Building an AI that is not only smart, but meaningful.
+
+## ⚙️ Tech
+- React / Vite
+- AI API
+- Modern UI
+
+---
+"Think deeper. Speak less."
